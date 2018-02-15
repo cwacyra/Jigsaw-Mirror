@@ -10,5 +10,5 @@ To Run:
 Example:
 <img width="1440" alt="screen shot 2018-02-15 at 12 34 28 am" src="https://user-images.githubusercontent.com/26132998/36242237-b339f566-11e8-11e8-912f-61c381baed92.png">
 
-Link to Video of program running:
->>>>>>> 4484c9d98ebbddd31a4445b513622254a0ed7c48
+Link to Video of program running: https://youtu.be/y4pgwpFyO0I
+
